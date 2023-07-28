@@ -2,3 +2,6 @@ cafe
 acucar
 arroz
 feijao
+sal
+macarrao
+oleo
